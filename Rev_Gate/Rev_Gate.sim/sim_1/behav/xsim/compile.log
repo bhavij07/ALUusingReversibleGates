@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VivadoProject/Rev_Gate/Rev_Gate.srcs/sources_1/new/Toffoli.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Toffoli
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VivadoProject/Rev_Gate/Rev_Gate.srcs/sim_1/new/ToffoliSim.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ToffoliSim
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VivadoProject/Rev_Gate/Rev_Gate.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
