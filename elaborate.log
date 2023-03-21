@@ -1,0 +1,21 @@
+Vivado Simulator v2022.2
+Copyright 1986-1999, 2001-2022 Xilinx, Inc. All Rights Reserved.
+Running: D:/Vivado/Vivado/2022.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot mul4test_behav xil_defaultlib.mul4test xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 4 differs from formal bit length 1 for port 'r0' [D:/Bhavi/Bhavi/Rev_Gate/Rev_Gate/Rev_Gate.srcs/sources_1/new/alu4bit.v:37]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.Toffoli
+Compiling module xil_defaultlib.Toffoli_4x4
+Compiling module xil_defaultlib.FuncGen
+Compiling module xil_defaultlib.CNOT
+Compiling module xil_defaultlib.dxor
+Compiling module xil_defaultlib.alu4bit
+Compiling module xil_defaultlib.mul4bits
+Compiling module xil_defaultlib.mul4test
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot mul4test_behav

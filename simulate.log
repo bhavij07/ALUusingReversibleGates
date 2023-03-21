@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+                   0x = 0000, y = 0001 , product = 00000000
+                  10x = 0010, y = 0110 , product = 00001100
+                  20x = 0110, y = 1000 , product = 00110000
+                  30x = 1100, y = 0011 , product = 00100100
+$finish called at time : 40 ns : File "D:/Bhavi/Bhavi/Rev_Gate/Rev_Gate/Rev_Gate.srcs/sim_1/new/mul4test.v" Line 35

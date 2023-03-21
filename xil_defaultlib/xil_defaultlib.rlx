@@ -1,0 +1,15 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+D:/Bhavi/Bhavi/Rev_Gate/Rev_Gate/Rev_Gate.sim/sim_1/behav/xsim/glbl.v,1679328778,verilog,,,,glbl,,,,,,,,
+D:/Bhavi/Bhavi/Rev_Gate/Rev_Gate/Rev_Gate.srcs/sim_1/new/ToffoliSim.v,1679328780,verilog,,,,ToffoliSim,,,,,,,,
+D:/Bhavi/Bhavi/Rev_Gate/Rev_Gate/Rev_Gate.srcs/sim_1/new/alu4bittb.v,1679344452,verilog,,,,alu4bittb,,,,,,,,
+D:/Bhavi/Bhavi/Rev_Gate/Rev_Gate/Rev_Gate.srcs/sim_1/new/mul4test.v,1679387269,verilog,,,,mul4test,,,,,,,,
+D:/Bhavi/Bhavi/Rev_Gate/Rev_Gate/Rev_Gate.srcs/sources_1/new/CNOT.v,1679328780,verilog,,D:/Bhavi/Bhavi/Rev_Gate/Rev_Gate/Rev_Gate.srcs/sources_1/new/FuncGen.v,,CNOT,,,,,,,,
+D:/Bhavi/Bhavi/Rev_Gate/Rev_Gate/Rev_Gate.srcs/sources_1/new/FuncGen.v,1679336830,verilog,,D:/Bhavi/Bhavi/Rev_Gate/Rev_Gate/Rev_Gate.srcs/sources_1/new/Toffoli.v,,FuncGen,,,,,,,,
+D:/Bhavi/Bhavi/Rev_Gate/Rev_Gate/Rev_Gate.srcs/sources_1/new/Toffoli.v,1679333940,verilog,,D:/Bhavi/Bhavi/Rev_Gate/Rev_Gate/Rev_Gate.srcs/sources_1/new/Toffoli_4x4.v,,Toffoli,,,,,,,,
+D:/Bhavi/Bhavi/Rev_Gate/Rev_Gate/Rev_Gate.srcs/sources_1/new/Toffoli_4x4.v,1679328780,verilog,,D:/Bhavi/Bhavi/Rev_Gate/Rev_Gate/Rev_Gate.srcs/sources_1/new/alu4bit.v,,Toffoli_4x4,,,,,,,,
+D:/Bhavi/Bhavi/Rev_Gate/Rev_Gate/Rev_Gate.srcs/sources_1/new/alu4bit.v,1679344882,verilog,,D:/Bhavi/Bhavi/Rev_Gate/Rev_Gate/Rev_Gate.srcs/sources_1/new/dxor.v,,alu4bit,,,,,,,,
+D:/Bhavi/Bhavi/Rev_Gate/Rev_Gate/Rev_Gate.srcs/sources_1/new/dxor.v,1679337234,verilog,,D:/Bhavi/Bhavi/Rev_Gate/Rev_Gate/Rev_Gate.srcs/sources_1/new/mul4bits.v,,dxor,,,,,,,,
+D:/Bhavi/Bhavi/Rev_Gate/Rev_Gate/Rev_Gate.srcs/sources_1/new/mul4bits.v,1679384881,verilog,,D:/Bhavi/Bhavi/Rev_Gate/Rev_Gate/Rev_Gate.srcs/sim_1/new/mul4test.v,,mul4bits,,,,,,,,
